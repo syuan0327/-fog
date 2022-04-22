@@ -207,5 +207,11 @@ plt.title( 'Label' )
 plt.ylabel( '' )
 plt.show()
 ```
+資料處理前後占比對比圖
 
+Before:
+![image](https://user-images.githubusercontent.com/47874861/164652238-8b4d3b31-e386-4e1b-9b17-960a970fefc5.png)
+
+After:
+![image](https://user-images.githubusercontent.com/47874861/164652326-538191a0-24e0-42a5-aafb-7057a22a7afc.png)
 
