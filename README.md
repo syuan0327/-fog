@@ -1,5 +1,8 @@
 # 以深度學習為基礎進行霧季預測分析-以金門為例
 ## 資料處理
+#### 原資料來源
+1. 金門氣象站
+2. [觀測資料查詢系統](https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp?fbclid=IwAR3xkKHGTOGAcEZqRmySsKIu5RkF8IRuzUJb-j_PYUuzM2oTdcsusQGDpqU)
 ```python
 import re
 import bs4,requests
